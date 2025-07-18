@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://github.com/ultralytics/assets/raw/main/logos/yolo-icon.png" height="30" alt="yolo logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" height="30" alt="langchain logo" />
+<img src="https://seeklogo.com/images/L/langchain-logo-6A4FE1CD8F-seeklogo.com.png" height="30" alt="langchain logo" />
 </div>
 
 ###

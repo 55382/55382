@@ -53,3 +53,4 @@
 <img src="https://raw.githubusercontent.com/hanabenali/hanabenali/output/snake.svg" alt="Snake animation" />
 
 ###
+adapt this templeate and solve problems adding my likedin link this https://www.linkedin.com/in/hana-ben-ali-357b1a18b/ and remove youtibe ilink and add logods for AI tools

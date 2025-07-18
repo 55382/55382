@@ -40,7 +40,7 @@ From OCR to facial recognition, from YOLO to multimodal AI — I'm always explor
 - 🔥 GitHub Projects: [github.com/hanabenali](https://github.com/hanabenali)
 - 🌍 Portfolio / Website: *(coming soon!)*  
 - 💼 LinkedIn: [hana-ben-ali](https://www.linkedin.com/in/hana-ben-ali-357b1a18b/)
-- 📧 Email: hanabenali.ds@gmail.com *(example, update if needed)*
+- 📧 Email: hana.ben.ali@essai.ucar.tn 
 
 ---
 

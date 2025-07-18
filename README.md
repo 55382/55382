@@ -23,10 +23,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" height="30" alt="keras logo" />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="30" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://github.com/ultralytics/assets/raw/main/logos/yolo-icon.png" height="30" alt="yolo logo" />
-  <img width="12" />
-<img src="https://seeklogo.com/images/L/langchain-logo-6A4FE1CD8F-seeklogo.com.png" height="30" alt="langchain logo" />
+
 </div>
 
 ###

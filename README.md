@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hana Ben Ali</h1>
-<h3 align="center">AI & Computer Vision Engineer | Passionate about GenAI | 🇹🇳 Tunisia</h3>
+<h3 align="center">AI & Statistics| Engineer | Passionate about GenAI | 🇹🇳 Tunisia</h3>
 
 ---
 

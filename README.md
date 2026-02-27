@@ -3,7 +3,7 @@
 
 ---
 
-Hey there! I'm Hana Ben Ali, a data science engineer from Tunisia 🇹🇳 with a deep love for teaching and building AI-powered systems and deeping dive into statiscal algorithls and approaches.
+Hey there! I'm Hana Ben Ali, a data science engineer from Tunisia 🇹🇳 with a deep love for teaching and building AI-powered systems and deeping dive into statistical algorithls and approaches.
 
 From OCR to facial recognition, from YOLO to multimodal AI — I'm always exploring ways to push the boundaries of what's possible with machine learning and computer vision.
 
